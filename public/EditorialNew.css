@@ -1,0 +1,36 @@
+/* Webfont: EditorialNew-Regular */@font-face {
+    font-family: 'EditorialNew';
+    src: url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Regular.eot?v=1609374769406'); /* IE9 Compat Modes */
+    src: url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Regular.eot?v=1609374769406?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Regular.woff?v=1609374770295') format('woff'), /* Modern Browsers */
+         url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Regular.ttf?v=1609374771665') format('truetype'), /* Safari, Android, iOS */
+         url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Regular.svg?v=1609374779537') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: EditorialNew-Ultralight */@font-face {
+    font-family: 'EditorialNewUltralight';
+    src: url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Ultralight.eot?v=1609374773595'); /* IE9 Compat Modes */
+    src: url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Ultralight.eot?v=1609374773595?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Ultralight.woff?v=1609374775809') format('woff'), /* Modern Browsers */
+         url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Ultralight.ttf?v=1609374776496') format('truetype'), /* Safari, Android, iOS */
+         url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Ultralight.svg?v=1609374780727') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
+/* Webfont: EditorialNew-Ultrabold */@font-face {
+    font-family: 'EditorialNewUltrabold';
+    src: url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Ultrabold.eot?v=1609374771289'); /* IE9 Compat Modes */
+    src: url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Ultrabold.eot?v=1609374771289?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Ultrabold.woff?v=1609374773176') format('woff'), /* Modern Browsers */
+         url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Ultrabold.ttf?v=1609374774234') format('truetype'), /* Safari, Android, iOS */
+         url('https://cdn.glitch.com/b37b1220-58f1-45d5-9fd7-914667cb72f2%2FEditorialNew-Ultrabold.svg?v=1609374780749') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
